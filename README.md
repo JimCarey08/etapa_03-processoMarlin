@@ -8,7 +8,7 @@ Nesta etapa, desenvolvi uma Landig Page responsiva da ANC - Associação Naciona
 
 ### Links
 - [repositório](https://github.com/JimCarey08/etapa_03-processoMarlin/)
-- [email-live]()
+- [site-live]()
 
 ## Processo de desenvolvimento
 
